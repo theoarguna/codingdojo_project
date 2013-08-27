@@ -2,9 +2,9 @@ git and GitHub
 1) I made an account with GitHub
 2) I created a local directory for my codingdojo project
 3) I created a repository on github
-	a) I named the repository codingdojo_project_flash-it
-		i) project is publically available on GitHub at HeidiHeff/codingdojo_project_flash-it
-4) I used the LINUX terminal CLI to create a new repository, store a remote repository url and push it to said repository utilizing the following CLI statements:
+	a) I named the repository codingdojo_project
+		i) project is publically available on GitHub at theoarguna/codingdojo_project
+4) I used the terminal to create a new repository, store a remote repository url and push it to said repository utilizing the following statements:
 	touch README.md
 	git init
 	git add README.md
